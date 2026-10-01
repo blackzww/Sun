@@ -153,7 +153,7 @@ Pull Requests e Issues são bem-vindos.
 
 A referência completa da linguagem ficará na documentação:
 
-**https://usesun.vercel.app**
+**https://sunlang.vercel.app**
 
 O README serve apenas como introdução rápida.
 
