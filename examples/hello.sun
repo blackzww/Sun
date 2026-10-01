@@ -1,0 +1,9 @@
+// Primeiro programa em Sun
+
+nome = "Mundo"
+
+mostrar("Olá " + nome)
+
+repetir 3
+    mostrar("Bem-vindo à Sun!")
+fim
