@@ -19,7 +19,7 @@ Uma linguagem simples construída sobre **Luau**, criada para facilitar a escrit
 Carregue a Sun:
 
 ```lua
-local Sun = loadstring(game:HttpGet("URL_RAW_DO_SUN_LUA"))()
+local Sun = loadstring(game:HttpGet("https://raw.githubusercontent.com/blackzww/Sun/refs/heads/main/sun.lua"))()
 ```
 
 E escreva:
